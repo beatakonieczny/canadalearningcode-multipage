@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #6E7B8B;
+  padding: 0;sss
+  margin: 0;
+  font-family: 'Sunflower', sans-serif;
+   font-size: 100%;
+   color: #333333;
+
+}
+.home {
+ background: url(../images/background-6.jpg) no-repeat 75%;
+ background-repeat: no-repeat;
+ background-size: 100%;
+
+}
+.page-wrap{
+  min-height:100%;
+  margin-bottom: -55px;
+}
+.page-wrap:after {
+  height:55pz;
+}
+header,
+nav,
+main {
+  padding: 20px 30px;
+}
+a {color: #bf6d50;
+}
+
+h1, h2 { text-transform: uppercase;
+  color: charcoal;
+  margin: 0;
+}
+header {
+  float: left;
+  font-family: 'Sunflower', sans-serif;
+}
+nav {
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+float:right;
+}
+main {
+  clear: both;
+
+}
+p {font-family: 'Neucha', cursive;}
+
+.profile_image {
+  float: left;
+  height: 400px;
+  margin: 20px
+}
+blockquote {
+  clear: both;
+  font-family: 'Cookie', cursive;
+
+}
